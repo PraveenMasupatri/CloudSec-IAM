@@ -14,7 +14,7 @@ Let’s dive in and start building the key AWS components together, one step at 
 
 🏷️ **Customize your AWS Account with an alias**
 
-![image](https://github.com/user-attachments/assets/c4507342-800d-4c7c-a155-3296b11301fc)
+![image](https://github.com/user-attachments/assets/232335bd-f41b-4717-9aa8-55a3685d91ed)
 
 **Step #1- Start EC2 Instances**
 
