@@ -1,4 +1,4 @@
-# IAMCloudSecurity
+# Optimizing CloudSecurity with IAM
 
 In AWS, a "user" can be an individual or an automated system that interacts with the vast capabilities of the AWS cloud. 
 
