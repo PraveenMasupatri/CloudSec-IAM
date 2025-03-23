@@ -6,13 +6,13 @@ Through AWS Identity and Access Management (IAM), you gain precise control over 
 
 Let’s dive in and start building the key AWS components together, one step at a time:
 
-🚀 Launch and manage EC2 instances
+**🚀 Launch and manage EC2 instances
 
 🛠️ Design and implement IAM Policies
 
 👥 Set up IAM Users and User Groups
 
-🏷️ Customize your AWS Account with an alias
+🏷️ Customize your AWS Account with an alias**
 
 **Step #1- Start EC2 Instances**
 
