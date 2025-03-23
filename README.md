@@ -14,3 +14,17 @@ Let’s dive in and start building the key AWS components together, one step at 
 
 🏷️ Customize your AWS Account with an alias
 
+Step #1- Start EC2 Instances
+
+* Launch two Amazon EC2 instances.
+* Log in to your AWS Management Console.
+* Head to EC2.
+* Set up the EC2 instances for production and development
+* Choose Add additional tags, as it will help us with identifying all resources with the same tag at once.
+
+Step #2- Create an IAM Policy
+
+* Create an IAM policy that gives access to the development instance.
+* Choose Create policy in the IAM Console.
+* Choose policies and in policies,switch your Policy editor tab to JSON.
+* 
