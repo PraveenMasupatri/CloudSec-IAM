@@ -22,6 +22,9 @@ Let’s dive in and start building the key AWS components together, one step at 
 * Set up the EC2 instances for production and development
 * Choose Add **additional tags**, as it will help us with identifying all resources with the same tag at once.
 
+![Screenshot_1_new](https://github.com/user-attachments/assets/a55e9609-5610-4652-b514-27c990e1e100)
+
+
 **Step #2- Create an IAM Policy**
 
 * Create an **IAM policy** that gives access to the development instance.
@@ -33,6 +36,8 @@ Let’s dive in and start building the key AWS components together, one step at 
 
 * In the IAM Dashboard, we are gonna make it easier for users to log into your AWS account.
 * We create **account alias** to make it easier to remember and share your AWS console's login URL with others.
+![screenshot_3](https://github.com/user-attachments/assets/1294940c-3c6a-4fbc-8ff1-22a9917e0dfd)
+
 
 **Step #4-Create IAM Users and User Groups**
 
@@ -52,6 +57,11 @@ Let’s dive in and start building the key AWS components together, one step at 
 * When you try to stop the instance it throws an error and tells us we've failed to stop this instance.
 * This happens because of the **IAMPolicy** ,where it denies ec2 development instance creation or deletion.
 * If we try to stop the **development instance** it stops successfully.
+
+![image](https://github.com/user-attachments/assets/f149de1a-238b-4b7f-9b49-4f3cafe775c6)
+![Screenshot_6_new](https://github.com/user-attachments/assets/01f9cb13-16da-43fd-b7ff-9afbae691248)
+
+
 
 
 
